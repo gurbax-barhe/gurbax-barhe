@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="left"> Intro </h1>
+<p align="left"> 
+Hi there 👋 
+I'm Gurbax Barhe, a software engineer interested in big data and backend system probelms.
+I'm super pumped to be part of the Newton family and engineering team.
+</p>
 
-<!--
-**gurbax-barhe/gurbax-barhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am interested in **blockchain, healthcare, robotics, big data, and chess**
+- I enjoy overpriced coffee at a cool cafe
+- Away from the keyboard I really enjoy working out, playing sports, hiking, nature, and hanging out with friends and family.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="left"> Work </h1>
+- I am currently learnign **Django and AWS**
+
+  
