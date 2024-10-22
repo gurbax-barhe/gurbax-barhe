@@ -1,6 +1,5 @@
-<h1 align="left"> Intro </h1>
+<h1 align="left"> Hey 👋 </h1>
 <p align="left"> 
-Hi there 👋 
 I'm Gurbax Barhe, a software engineer interested in big data and backend system probelms.
 I'm super pumped to be part of the Newton family and engineering team.
 </p>
