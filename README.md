@@ -5,7 +5,7 @@ I'm super pumped to be part of the Newton engineering team.
 </p>
 
 - I am interested in **blockchain, healthcare, robotics, big data, and chess**
-- I enjoy the occasional overpriced coffee at a vibey cafe
+- I enjoy the occasional overpriced coffee at a cafe
 - Away from the keyboard I really enjoy working out, playing sports, nature, and hanging out with friends and family.
 
 
