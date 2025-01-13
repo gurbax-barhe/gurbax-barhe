@@ -4,12 +4,12 @@ I'm Gurbax Barhe, a software engineer interested in big data and backend.
 I'm super pumped to be part of the Newton engineering team.
 </p>
 
-- I am interested in **blockchain, healthcare, robotics, big data, and chess**
-- I enjoy the occasional overpriced coffee at a cafe
-- Away from the keyboard I really enjoy working out, playing sports, nature, and hanging out with friends and family.
+- I am interested in **blockchain, robotics, big data, and chess**
+- I enjoy the occasional overpriced coffee at a cafe because vibes
+- Away from the keyboard I enjoy working out, playing sports, hiking, and being around friends and family.
 
 
 <h1 align="left"> Work </h1>
-- I am currently learning Django and AWS
+- I am currently working in Django and AWS
 
   
