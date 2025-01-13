@@ -10,6 +10,6 @@ I'm super pumped to be part of the Newton engineering team.
 
 
 <h1 align="left"> Work </h1>
-- I am currently working in Django and AWS
+- I am currently working with Django and AWS
 
   
